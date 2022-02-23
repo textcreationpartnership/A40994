@@ -1,0 +1,261 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Faux's ghost, or, Advise to papists</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40994</idno>
+            <idno type="STC">Wing F561</idno>
+            <idno type="STC">ESTC R14338</idno>
+            <idno type="EEBO-CITATION">13589150</idno>
+            <idno type="OCLC">ocm 13589150</idno>
+            <idno type="VID">100633</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40994)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100633)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 843:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Faux's ghost, or, Advise to papists</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Mr. Benskin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fawkes, Guy, 1570-1606 --  Poetry.</term>
+               <term>Gunpowder Plot, 1605 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:100633:1"/>
+            <!-- PDF PAGE 10 -->
+            <pb facs="tcp:100633:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 10 -->
+            <head>FAUXS GHOST: OR, Advice TO PAPISTS <date>Novemb. 5. 1680.</date>
+            </head>
+            <lg>
+               <lg>
+                  <l>THe Morning of that day was almoſt come,</l>
+                  <l>Which once, the Daring <hi>Catalines</hi> of <hi>Rome</hi>
+                  </l>
+                  <l>Deſign'd to make Great <hi>Brittains</hi> day of Doom.</l>
+               </lg>
+               <l>(<hi>November</hi>'s Fifth,) a Day which had not Heaven,</l>
+               <l>(Juſt when the Fatal Stroke was to be given,)</l>
+               <l>Stretcht out its Saving Hand, had ſeen the Fall</l>
+               <l>Of King and People; Root, and Branch, and all:</l>
+               <lg>
+                  <l>A Day which ſince, (and may it Ever be!)</l>
+                  <l>Has been, by all true <hi>Proteſtants,</hi> to Thee,</l>
+                  <l>And to thy Praiſe, Great God, Devoted Solemnlie.</l>
+               </lg>
+               <l>'Twas juſt before the Morning of <hi>This</hi> Day,</l>
+               <l>As in my Bed, in a Deep ſleep I lay,</l>
+               <l>
+                  <pb n="2" facs="tcp:100633:2" rendition="simple:additions"/>
+                  <!-- PDF PAGE 11 -->
+I felt a ſudden Trembling ſeize my Heart,</l>
+               <l>And a Cold Sweat ran over every Part:</l>
+               <l>Methought, the Room I lay in was Ore-ſpread</l>
+               <l>With thick Black Darkneſs, ſuch as hides the Dead;</l>
+               <l>And to encreaſe the Horrors it brought there,</l>
+               <l>Loud Thunders Roar'd throu<gap reason="illegible: bleedthrough" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h all the <gap reason="illegible: bleedthrough" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>roubled Ai<gap reason="illegible: bleedthrough" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>;</l>
+               <l>And Diſmal Lightnings Rev<gap reason="illegible: bleedthrough" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l'd in the Clouds,</l>
+               <l>Which fighting winds drove on in trembling croud<gap reason="illegible: bleedthrough" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>:</l>
+               <l>Such was that Hour, I thought it could Portend</l>
+               <l>No leſs, then that the World was at an End.</l>
+               <l>When loe! methought, a Mighty Earth-quake came</l>
+               <l>And Cleft the Ground; then, in a <hi>Sulpherous</hi> Flame</l>
+               <l>That ſeem'd to fill the Chamber, ſtraight aroſe</l>
+               <l>A Ghaſtly ſhape, Ugly and Black as thoſe</l>
+               <l>We Paint the Devils in; its Glaring Eyes</l>
+               <l>Look'd like two <hi>Comets</hi> of a Monſtrous ſize.</l>
+               <l>So Hidious 'twas, I gueſs'd it ſtraight to be</l>
+               <l>Some Damn'd <hi>Arch-Traytor's</hi> Ghoſt; but whoſe, to me</l>
+               <l>Was ſomething hard, at firſt, to Underſtand;</l>
+               <l>But when I ſpy'd th' <hi>Dark Lanthorn</hi> in his Hand,</l>
+               <l>I knew 'twas <hi>FA<g ref="char:V">Ʋ</g>X,</hi> (that Darling of the Devil,)</l>
+               <l>That ſtrove t' Out-doe even Hell it ſelf in Evil.</l>
+               <l>Methought he Frown'd, and deeply ſeem'd to groan,</l>
+               <l>And (with a Horrid Voice,)</l>
+               <l>'Twixt Grief and Rage, at laſt, thus made his Moan:</l>
+               <l>And is it come to this? (cry'd he) did I</l>
+               <l>So Great, ſo Glorious an Example dye,</l>
+               <l>To teach ſucceeding Ages how to Dare,</l>
+               <l>And at the Higheſt Crimes not ſhrink, nor fear;</l>
+               <l>And yet can you, ye Dull Tame Sons of <hi>Rome,</hi>
+               </l>
+               <l>(Unworthy to be thought from Thence to come,)</l>
+               <l>When you've ſo far, and Venturouſly paſt,</l>
+               <l>Leave the <hi>Great Work</hi> but done by Halves at laſt:</l>
+               <l>
+                  <pb n="3" facs="tcp:100633:2"/>
+                  <!-- PDF PAGE 11 -->
+All you've yet done has only render'd Us,</l>
+               <l>And our Religion the more Odious.</l>
+               <l>But Pardon me, dear Sons o'th Church, 'tis Zeal,</l>
+               <l>(Zeal for the <hi>Holy Cauſe,</hi>) makes me reveal</l>
+               <l>My Grief ſo Paſſionately; beſides, you know,</l>
+               <l>I'm newly come from a Hot Place Below.</l>
+               <l>I know you Plotted well, and Plot on ſtill;</l>
+               <l>And till Our <hi>End</hi>'s accompliſh'd Ever will:</l>
+               <l>But I Diſlike the Method you Proceed in,</l>
+               <l>It is too Mean; ſet all the Land a Bleeding;</l>
+               <l>With Fire and Sword, the <hi>Hereticks</hi> Deſtroy,</l>
+               <l>And Endleſs Fame for the Brave Act Enjoy:</l>
+               <l>Do what I aim'd at; let that Vipers Neſt,</l>
+               <l>That <hi>Conventicle</hi> of <hi>Hereticks</hi> i'th <hi>Weſt,</hi>
+               </l>
+               <l>That now ſit Plotting how to Extirpate</l>
+               <l>Us, and Religion, find a ſudden Fate.</l>
+               <l>Ah! had the Fatal Squire a while but ſpar'd</l>
+               <l>Thoſe Famous Modern <hi>Hero's,</hi> they'd have Dar'd:</l>
+               <l>
+                  <hi>Coleman, Groves, Pickering, Whitebeard,</hi> all the Crew</l>
+               <l>That ſtrove in Royal Blood their Hands t' Embrew;</l>
+               <l>Had they but liv'd yet Undiſcover'd, what!</l>
+               <l>Oh! what had they now done! rather what not?</l>
+               <l>Yet ſome are Living, <hi>Roman</hi>-Soul'd indeed,</l>
+               <l>That for the Sacred Cauſe dare boldly Bleed:</l>
+               <l>There's <hi>Don Thomazo,</hi> (Curſe on th' <hi>Renegade!</hi>)</l>
+               <l>Had he ſtood firm what Work would he have made!</l>
+               <l>But to ſpare Names, (to all our <hi>Hero's</hi> Shame,)</l>
+               <l>Our brave Bold <hi>Heroine</hi> hath Engroſs'd all Fame;</l>
+               <l>She who like <hi>Hecate,</hi> dire Miſchief loves,</l>
+               <l>And, though o're-power'd. Undaunted on ſtill moves.</l>
+               <l>
+                  <hi>Celier!</hi> Famous <hi>Celier!</hi> whoſe Name at <hi>Rome,</hi>
+               </l>
+               <l>Shall like the Sun, ſhine to all Times to come,</l>
+               <l>And dim the Glories of all Saints that are</l>
+               <l>Recorded in the Sacred Calender:</l>
+               <l>
+                  <pb n="4" facs="tcp:100633:3" rendition="simple:additions"/>
+                  <!-- PDF PAGE 12 -->
+On then, True Daughter, of ſo Great a <hi>Sire;</hi>
+               </l>
+               <l>Thy Holy Father bids thy thoughts aſpire;</l>
+               <l>And though Confin'd in ſuch Ignoble Walls,</l>
+               <l>Plot ſtill King's Murders, and great Kingdom's falls.</l>
+               <l>And oh! ye Men, for ſhame, at laſt be Brave;</l>
+               <l>Let not a Woman all the Honour have;</l>
+               <l>And be aſſur'd, if you but dare do Well,</l>
+               <l>We'l arm, to aid you, all the Powers of Hell.</l>
+            </lg>
+            <lg>
+               <l>With that, methought he Vaniſht, with a Noiſe</l>
+               <l>Dreadful and Loud as thouſand Thunders Voice:</l>
+               <l>I ſtarted, and awak'd, and Kneeling there,</l>
+               <l>To <hi>England</hi>'s Gracious God adreſs'd this Prayer;</l>
+               <l>Great God, who hitherto has't ſav'd this Land,</l>
+               <l>Oh! ſtretch out ſtill thy all-Protecting Hand:</l>
+               <l>Keep ſafe our Soveraign from Hell and <hi>Rome,</hi>
+               </l>
+               <l>And ne'r let <hi>Popery</hi> into <hi>England</hi> come.</l>
+            </lg>
+            <trailer>FINIS,</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON.</hi> Printed for Mr. <hi>Benſkin,</hi> in <hi>Green's-Rents</hi> neer <hi>Fleet-Bridge.</hi>
+            </p>
+            <pb facs="tcp:100633:3"/>
+            <!-- PDF PAGE 12 -->
+         </div>
+      </back>
+   </text>
+</TEI>
